@@ -50,7 +50,8 @@ INSTALLED_APPS = [
     "accounts",
     "academics",
     "notifications",
-    "api",
+    'api_app',
+    
 ]
 
 MIDDLEWARE = [
