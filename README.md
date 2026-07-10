@@ -156,7 +156,5 @@ PATCH  /api/notifications/<id>/read/
 ---
 
 ## Author
-
-Narottam Rout
-MCA Student
+spine group
 Student OS Project
